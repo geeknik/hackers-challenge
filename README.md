@@ -8,6 +8,7 @@ A stealth hacking game written in Bash
 * Procedurally generated shops
 * Stealth Meter
 * Reputation Meter
+* Tutorial (WIP)
 * Save game (WIP)
 * Load save game (WIP)
 * Currency (TODO)
