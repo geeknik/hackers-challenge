@@ -6,5 +6,8 @@ A stealth hacking game written in Bash
 * Procedurally generated systems
 * Procedurally generated networks
 * Procedurally generated shops
-* Save game (WIP
+* Stealth Meter
+* Reputation Meter
+* Save game (WIP)
 * Load save game (WIP)
+* Currency (TODO)
