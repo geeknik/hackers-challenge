@@ -1,2 +1,2 @@
-# hackers-challenge
-a stealth hacking game written in Bash
+# The Hacker's Challenge
+A stealth hacking game written in Bash
